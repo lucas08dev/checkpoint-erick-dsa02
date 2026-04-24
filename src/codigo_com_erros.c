@@ -9,7 +9,7 @@ int main() {
     printf("Digite a segunda nota: ");
     scanf("%f", &nota2); 
 
-    media = nota1 + nota2 / 2; // Cálculo errado de média falta o ()
+    media = (nota1 + nota2) / 2; 
 
     if (media = 6) {
         printf("Aluno aprovado\n");
