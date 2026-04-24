@@ -39,6 +39,7 @@ int main() {
                 } else {
                 printf("Reprovado\n");
                 }
+                break;
         }
     }
 
