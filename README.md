@@ -1,7 +1,17 @@
 # Checkpoint - Sistema Acadêmico em C
 
 ## Modalidade
-Grupo de 5 integrantes
+Grupo de 5 integrantes:
+
+Lucas Silva de Abreu - 572321
+Enzo Guislandi - 569885
+Guilherme Reiche - 569918
+Nicolas Nishi - 572242
+João Camperlingo - 568957
+
+
+
+
 
 ## Regras
 - Trabalhar no mesmo repositório
