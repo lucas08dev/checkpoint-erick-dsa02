@@ -23,6 +23,7 @@ int main() {
                 media = (n1 + n2 + n3) / 3;
                 printf("Media = %.2f\n", media);
                 break;
+ 
             }
         }
     }
