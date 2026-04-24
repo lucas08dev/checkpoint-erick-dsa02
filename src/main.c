@@ -12,6 +12,9 @@ int main() {
         printf("Escolha: ");
         scanf("%d", &opcao);
     
+        switch(opcao) {
+            
+        }
 
     
     return 0;
