@@ -40,7 +40,18 @@ int main() {
                 printf("Reprovado\n");
                 }
                 break;
-        }
+            }
+            case 3: {
+                float a, b, c;
+
+                printf("Funcao: ax^2 + bx + c\n");
+                printf("Digite a, b e c: ");
+                scanf("%f %f %f", &a, &b, &c);
+
+                printf("Derivada: %.2fx + %.2f\n", 2*a, b);
+                break;
+            }
+
     }
 
     return 0;
