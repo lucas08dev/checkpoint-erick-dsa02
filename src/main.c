@@ -51,6 +51,14 @@ int main() {
                 printf("Derivada: %.2fx + %.2f\n", 2*a, b);
                 break;
             }
+            case 0:
+                printf("Saindo...\n");
+                break;
+
+            default:
+                printf("Opcao invalida\n");
+
+        }
 
     }
 
